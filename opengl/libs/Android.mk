@@ -131,7 +131,6 @@ LOCAL_SRC_FILES:= \
 	GLES2/gl2.cpp   \
 #
 
-LOCAL_CLANG := false
 LOCAL_ARM_MODE := arm
 LOCAL_SHARED_LIBRARIES += libcutils libutils liblog libEGL
 LOCAL_MODULE:= libGLESv3
